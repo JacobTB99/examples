@@ -11,6 +11,7 @@ This is a simple project that contain some of the tools used in the class. For e
 - Catch2
 - Travis CI (The idea of integrating this into class is heavily influenced by Mr. Robert Foreman).
 - maybe Google Test Framework (using Docker image)
+- Used as a testing means for students to learn pull requests
 
 ## Git with commit message in Commitizen convention
 
@@ -22,3 +23,4 @@ Some of commit message in this repository are following the Commitizen conventio
 The `fib` example contains configuration of Doxygen (`fib/Doxygfile`) and Netlify (`netlify.toml`)
 that automatically build doxygen (using `cd fib && make doc`), and publish the generated document
 to [https://ou-cs3560-f19-examples.netlify.com/](https://ou-cs3560-f19-examples.netlify.com/).
+
